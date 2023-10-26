@@ -1,0 +1,14 @@
+[
+{"name": "Bitcoin", "ticker": "BTC", "price": "34525.6424636980938970" },
+{"name": "Ethereum", "ticker": "ETH", "price": "1788.7564878545480000" },
+{"name": "Tether", "ticker": "USDT", "price": "1.0005863299069888" },
+{"name": "BNB", "ticker": "BNB", "price": "221.9760385531308153" },
+{"name": "USDC", "ticker": "USDC", "price": "1.0004019918788104" },
+{"name": "XRP", "ticker": "XRP", "price": "0.5552389348146609" },
+{"name": "Solana", "ticker": "SOL", "price": "32.4892126679803844" },
+{"name": "Cardano", "ticker": "ADA", "price": "0.2811081245227865" },
+{"name": "Dogecoin", "ticker": "DOGE", "price": "0.0682995049871083" },
+{"name": "TRON", "ticker": "TRX", "price": "0.0936506494285610" },
+{"name": "Chainlink", "ticker": "LINK", "price": "11.0280669777091143" },
+{"name": "Polygon", "ticker": "MATIC", "price": "0.6305395579427468" }
+]

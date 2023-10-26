@@ -1,0 +1,12 @@
+[
+{"name": "Apple, Inc.", "ticker": "AAPL", "price": "141.11", "ytd": "+12.82%", "marketcap": "US$2.23t"},
+{"name": "The Coca-Cola Company", "ticker": "KO", "price": "60.23", "ytd": "-4.32%", "marketcap": "US$260b"},
+{"name": "Berkshire Hathaway Inc.", "ticker": "BRK.B", "price": "310.42", "ytd": "+0.16%", "marketcap": "US$684b"},
+{"name": "Mastercard Inc.", "ticker": "MA", "price": "378.57", "ytd": "+9.16%", "marketcap": "US$363b"},
+{"name": "Nike, Inc.", "ticker": "NKE", "price": "128.29", "ytd": "+8.03%", "marketcap": "US$198b"},
+{"name": "JPMorgan Chase & Co.", "ticker": "JPM", "price": "137.27", "ytd": "+1.59%", "marketcap": "US$402b"},
+{"name": "American Express Co.", "ticker": "AXP", "price": "154.00", "ytd": "+4.68%", "marketcap": "US$115b"},
+{"name": "McDonald's Corp.", "ticker": "MCD", "price": "269.29", "ytd": "+1.88%", "marketcap": "US$197b"},
+{"name": "Chevron Corporation", "ticker": "CVX", "price": "180.66", "ytd": "+3.83%", "marketcap": "US$349b"},
+{"name": "Johnson & Johnson", "ticker": "JNJ", "price": "168.30", "ytd": "-5.54%", "marketcap": "US$440b"}
+]
